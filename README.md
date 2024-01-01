@@ -1,6 +1,6 @@
 # New-Picture-Bed
 
-Token和配置方法都给出来了(别在意垃圾话，那是我初次配置时的精神状态)
+Token和配置方法都给出来了，想用就拿去用吧(别在意垃圾话，那是我初次配置时的精神状态)
 
 token: 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
 
