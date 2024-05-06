@@ -2,7 +2,7 @@
 
 Token和配置方法都给出来了，想用就拿去用吧(别在意垃圾话，那是我初次配置时的精神状态)
 
-Token: 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
+Token: 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
 
 ![image-20240101121122011](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/image-20240101121122011.png)
 
